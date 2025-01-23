@@ -10,6 +10,8 @@ Link to the paper: "https://arxiv.org/abs/2411.11548"
 
 Feel free to Contact me at: riccardopersonalmail@gmail.com
 
+LinkedIn: https://www.linkedin.com/in/riccardo-riccio-bb7163296/
+
 ## Demo
 
 Watch the Fitness AI Coach in action:
