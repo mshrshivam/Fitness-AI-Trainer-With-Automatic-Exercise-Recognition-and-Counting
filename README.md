@@ -8,6 +8,8 @@ This project is based on the paper: "Real-Time Fitness Exercise Classification a
 
 Link to the paper: "https://arxiv.org/abs/2411.11548"
 
+Feel free to Contact me at: riccardopersonalmail@gmail.com
+
 ## Demo
 
 Watch the Fitness AI Coach in action:
